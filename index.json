@@ -1,0 +1,44 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.7,
+                "place": "29 km S of Mina, Nevada",
+                "time": 1594478992460,
+                "updated": 1594479397655,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00759163",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00759163.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 8,
+                "net": "nn",
+                "code": "00759163",
+                "ids": ",nn00759163,",
+                "sources": ",nn,",
+                "types": ",origin,phase-data,",
+                "nst": 8,
+                "dmin": 0.119,
+                "rms": 0.05,
+                "gap": 187.01,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 0.7 - 29 km S of Mina, Nevada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.1742,
+                    38.1253,
+                    0.1
+                ]
+              }
+            }
+        ]
+    }
