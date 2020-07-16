@@ -11,9 +11,9 @@
         {
             "country": "Kenya",
             "properties": {
-                "county": "Nairobi",
-                "code": "47",
-                "population": "4,397,073",
+                "county": "Mombasa",
+                "code": "01",
+                "population": "1,208,333",
                 "cases": 209,
                 "total cases": "NA",
                 "deaths": "12",
@@ -37,9 +37,9 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Kwale",
+                    "code": "02",
+                    "population": "866,820",
                     "cases": 209,
                     "total cases": "NA",
                     "deaths": "12",
@@ -63,9 +63,9 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Kilifi",
+                    "code": "03",
+                    "population": "1,453,787",
                     "cases": 209,
                     "total cases": "NA",
                     "deaths": "12",
@@ -89,9 +89,35 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Tana River",
+                    "code": "04",
+                    "population": "315,943",
+                    "cases": 209,
+                    "total cases": "NA",
+                    "deaths": "NA",
+                    "bed capacity": "NA",
+                    "date": "12th July",
+                    "time": 1594478992460,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Nairobi County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -118.1742,
+                        38.1253,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Lamu",
+                    "code": "05",
+                    "population": "143,920",
                     "cases": 209,
                     "total cases": "NA",
                     "deaths": "12",
@@ -115,12 +141,12 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Taita Taveta",
+                    "code": "06",
+                    "population": "340,671",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
@@ -141,12 +167,12 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Garissa",
+                    "code": "07",
+                    "population": "841,353",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
@@ -167,12 +193,12 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Wajir",
+                    "code": "08",
+                    "population": "781,263",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
@@ -193,12 +219,12 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Mandera",
+                    "code": "09",
+                    "population": "867,457",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
@@ -219,12 +245,12 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Marsabit",
+                    "code": "10",
+                    "population": "459,785",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
@@ -245,12 +271,12 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Isiolo",
+                    "code": "11",
+                    "population": "268,002",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
@@ -271,19 +297,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Meru",
+                    "code": "12",
+                    "population": "1,545,714",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Meru County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -297,9 +323,9 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Thara Nithi",
+                    "code": "13",
+                    "population": "393,177",
                     "cases": 209,
                     "total cases": "NA",
                     "deaths": "12",
@@ -309,7 +335,7 @@
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Tharaka Nithi County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -323,19 +349,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Embu",
+                    "code": "14",
+                    "population": "608,599",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Embu County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -349,19 +375,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Kitui",
+                    "code": "15",
+                    "population": "1,136,187",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Kitui County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -375,9 +401,9 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Machakos",
+                    "code": "16",
+                    "population": "1,421,932",
                     "cases": 209,
                     "total cases": "NA",
                     "deaths": "12",
@@ -387,7 +413,7 @@
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Machakos County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -401,19 +427,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Makueni",
+                    "code": "17",
+                    "population": "987,653",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Makueni County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -427,19 +453,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Nyandarua",
+                    "code": "18",
+                    "population": "638,289",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Nyandarua County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -453,19 +479,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Nyeri",
+                    "code": "19",
+                    "population": "759,164",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Nyeri County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -479,19 +505,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Kirinyaga",
+                    "code": "20",
+                    "population": "610,411",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Kirinyaga County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -505,19 +531,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Murang'a",
+                    "code": "21",
+                    "population": "1,056,640",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Murang'a County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -531,19 +557,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Kiambu",
+                    "code": "22",
+                    "population": "2,417,735",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Kiambu County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -557,19 +583,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Turkana",
+                    "code": "23",
+                    "population": "926,976",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Turkana County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -583,19 +609,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "West Pokot",
+                    "code": "24",
+                    "population": "621,241",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "West Pokot County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -609,19 +635,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Samburu",
+                    "code": "25",
+                    "population": "310,327",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Samburu County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -635,19 +661,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Kitale",
+                    "code": "26",
+                    "population": "990,341",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Kitale County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -661,19 +687,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Uasin Gishu",
+                    "code": "27",
+                    "population": "1,163,186",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Uasin Gishu County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -687,19 +713,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Elgeyo Marakwet",
+                    "code": "28",
+                    "population": "454,480",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Elgeyo marakwet County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -713,19 +739,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Nandi",
+                    "code": "29",
+                    "population": "885,711",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Nandi County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -739,19 +765,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Baringo",
+                    "code": "30",
+                    "population": "666,763",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Baringo County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -765,19 +791,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Laikipia",
+                    "code": "31",
+                    "population": "518,560",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Laikipia County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -791,19 +817,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Nakuru",
+                    "code": "32",
+                    "population": "2,162,202",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Nakuru County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -817,19 +843,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Narok",
+                    "code": "33",
+                    "population": "1,157,873",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Narok County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -843,19 +869,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Kajiado",
+                    "code": "34",
+                    "population": "1,117,840",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Kajiado County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -869,19 +895,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Kericho",
+                    "code": "35",
+                    "population": "901,777",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Kericho County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -895,19 +921,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Bomet",
+                    "code": "36",
+                    "population": "875,689",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Bomet County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -921,19 +947,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Kakamega",
+                    "code": "37",
+                    "population": "1,867,579",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Kakamega County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -947,19 +973,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Vihiga",
+                    "code": "38",
+                    "population": "590,013",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Vihiga County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -973,9 +999,9 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Bungoma",
+                    "code": "39",
+                    "population": "1,670,570",
                     "cases": 209,
                     "total cases": "NA",
                     "deaths": "12",
@@ -985,7 +1011,7 @@
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Bungoma County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -999,19 +1025,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Busia",
+                    "code": "40",
+                    "population": "893,681",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Busia County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1025,19 +1051,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Siaya",
+                    "code": "41",
+                    "population": "993,183",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Siaya County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1051,19 +1077,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Kisumu",
+                    "code": "42",
+                    "population": "1,155,574",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Kisumu County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1077,19 +1103,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Homa Bay",
+                    "code": "43",
+                    "population": "1,131,950",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Homa Bay County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1103,19 +1129,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Migori",
+                    "code": "44",
+                    "population": "1,116,436",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Migori County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1129,19 +1155,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Kisii",
+                    "code": "45",
+                    "population": "1,266,860",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Kisii County"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1155,71 +1181,19 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
+                    "county": "Nyamira",
+                    "code": "46",
+                    "population": "605,576",
                     "cases": 209,
                     "total cases": "NA",
-                    "deaths": "12",
+                    "deaths": "",
                     "bed capacity": "NA",
                     "date": "12th July",
                     "time": 1594478992460,
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
-                },
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [
-                        -118.1742,
-                        38.1253,
-                        0.1
-                    ]
-                }
-            },
-            {
-                "country": "Kenya",
-                "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
-                    "cases": 209,
-                    "total cases": "NA",
-                    "deaths": "12",
-                    "bed capacity": "NA",
-                    "date": "12th July",
-                    "time": 1594478992460,
-                    "updated": 1594479397655,
-                    "source": "MOH",
-                    "type": "corona virus",
-                    "title": "Nairobi County"
-                },
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [
-                        -118.1742,
-                        38.1253,
-                        0.1
-                    ]
-                }
-            },
-            {
-                "country": "Kenya",
-                "properties": {
-                    "county": "Nairobi",
-                    "code": "47",
-                    "population": "4,397,073",
-                    "cases": 209,
-                    "total cases": "NA",
-                    "deaths": "12",
-                    "bed capacity": "NA",
-                    "date": "12th July",
-                    "time": 1594478992460,
-                    "updated": 1594479397655,
-                    "source": "MOH",
-                    "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Nyamira County"
                 },
                 "geometry": {
                     "type": "Point",
