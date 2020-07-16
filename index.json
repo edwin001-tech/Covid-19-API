@@ -23,13 +23,13 @@
                 "updated": 1594479397655,
                 "source": "MOH",
                 "type": "corona virus",
-                "title": "Nairobi County"
+                "title": "Mombasa County"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -118.1742,
-                    38.1253,
+                    4.0435,
+                    39.6682,
                     0.1
                 ]
               }
@@ -49,13 +49,13 @@
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Kwale County"
                 },
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        4.1816,
+                        39.4606,
                         0.1
                     ]
                 }
@@ -75,13 +75,13 @@
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Kilifi County"
                 },
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        3.5107,
+                        39.9093,
                         0.1
                     ]
                 }
@@ -101,13 +101,13 @@
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Tana River County"
                 },
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        1.6518,
+                        39.6518,
                         0.1
                     ]
                 }
@@ -127,13 +127,13 @@
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Lamu County"
                 },
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        2.2696,
+                        40.9006,
                         0.1
                     ]
                 }
@@ -153,13 +153,13 @@
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Taita Taveta County"
                 },
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        3.3161,
+                        38.4850,
                         0.1
                     ]
                 }
@@ -179,13 +179,13 @@
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Garissa County"
                 },
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.4532,
+                        39.6461,
                         0.1
                     ]
                 }
@@ -205,13 +205,13 @@
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Wajir County"
                 },
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        1.7488,
+                        40.0586,
                         0.1
                     ]
                 }
@@ -231,13 +231,13 @@
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Mandera County"
                 },
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        3.9356,
+                        41.8551,
                         0.1
                     ]
                 }
@@ -257,13 +257,13 @@
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Marsabit County"
                 },
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        2.3355,
+                        37.9943,
                         0.1
                     ]
                 }
@@ -283,13 +283,13 @@
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Nairobi County"
+                    "title": "Isiolo County"
                 },
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.3556,
+                        37.5833,
                         0.1
                     ]
                 }
@@ -314,8 +314,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.0515,
+                        37.6456,
                         0.1
                     ]
                 }
@@ -340,8 +340,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.2965,
+                        37.7238,
                         0.1
                     ]
                 }
@@ -366,8 +366,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.5388,
+                        37.4596,
                         0.1
                     ]
                 }
@@ -392,8 +392,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        1.3751,
+                        37.9952,
                         0.1
                     ]
                 }
@@ -418,8 +418,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        1.5177,
+                        37.2634,
                         0.1
                     ]
                 }
@@ -444,8 +444,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        2.2559,
+                        37.8937,
                         0.1
                     ]
                 }
@@ -470,8 +470,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.1804,
+                        36.5230,
                         0.1
                     ]
                 }
@@ -496,8 +496,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.4371,
+                        36.9580,
                         0.1
                     ]
                 }
@@ -522,8 +522,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.6591,
+                        37.3827,
                         0.1
                     ]
                 }
@@ -548,8 +548,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.7839,
+                        37.0400,
                         0.1
                     ]
                 }
@@ -574,8 +574,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        1.1748,
+                        36.8304,
                         0.1
                     ]
                 }
@@ -600,8 +600,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        3.3122,
+                        35.5658,
                         0.1
                     ]
                 }
@@ -626,8 +626,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        1.6210,
+                        35.3905,
                         0.1
                     ]
                 }
@@ -652,8 +652,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        1.2155,
+                        36.9541,
                         0.1
                     ]
                 }
@@ -661,7 +661,7 @@
             {
                 "country": "Kenya",
                 "properties": {
-                    "county": "Kitale",
+                    "county": "Trans Nzoia",
                     "code": "26",
                     "population": "990,341",
                     "cases": 209,
@@ -673,13 +673,13 @@
                     "updated": 1594479397655,
                     "source": "MOH",
                     "type": "corona virus",
-                    "title": "Kitale County"
+                    "title": "Trans Nzoia County"
                 },
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        1.0567,
+                        34.9507,
                         0.1
                     ]
                 }
@@ -704,8 +704,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.5528,
+                        35.3027,
                         0.1
                     ]
                 }
@@ -730,8 +730,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        1.0498,
+                        35.4782,
                         0.1
                     ]
                 }
@@ -756,8 +756,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.1836,
+                        35.1269,
                         0.1
                     ]
                 }
@@ -782,8 +782,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.8555,
+                        36.0893,
                         0.1
                     ]
                 }
@@ -808,8 +808,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.3606,
+                        36.7820,
                         0.1
                     ]
                 }
@@ -834,8 +834,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.3031,
+                        36.0800,
                         0.1
                     ]
                 }
@@ -860,8 +860,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        1.0875,
+                        35.8771,
                         0.1
                     ]
                 }
@@ -886,8 +886,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        2.0981,
+                        36.7820,
                         0.1
                     ]
                 }
@@ -912,8 +912,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.3689,
+                        35.2863,
                         0.1
                     ]
                 }
@@ -938,8 +938,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.8015,
+                        35.3027,
                         0.1
                     ]
                 }
@@ -964,8 +964,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.2827,
+                        34.7519,
                         0.1
                     ]
                 }
@@ -990,8 +990,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.0768,
+                        34.7078,
                         0.1
                     ]
                 }
@@ -1016,8 +1016,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.5695,
+                        34.5584,
                         0.1
                     ]
                 }
@@ -1042,8 +1042,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.4608,
+                        34.1115,
                         0.1
                     ]
                 }
@@ -1068,8 +1068,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.0617,
+                        34.2422,
                         0.1
                     ]
                 }
@@ -1094,8 +1094,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.0917,
+                        34.7680,
                         0.1
                     ]
                 }
@@ -1120,8 +1120,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.5350,
+                        34.4531,
                         0.1
                     ]
                 }
@@ -1146,8 +1146,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        1.0707,
+                        34.4753,
                         0.1
                     ]
                 }
@@ -1172,8 +1172,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.6773,
+                        34.7796,
                         0.1
                     ]
                 }
@@ -1198,8 +1198,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        0.5669,
+                        34.9341,
                         0.1
                     ]
                 }
@@ -1224,8 +1224,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -118.1742,
-                        38.1253,
+                        1.2921,
+                        36.8219,
                         0.1
                     ]
                 }
