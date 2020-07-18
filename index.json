@@ -27,7 +27,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.0435,
+                    -4.0435,
                     39.6682,
                     0.1
                 ]
@@ -102,7 +102,7 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        1.6518,
+                        -1.6518,
                         39.6518,
                         0.1
                     ]
