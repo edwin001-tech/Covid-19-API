@@ -52,7 +52,7 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        4.1816,
+                        -4.1816,
                         39.4606,
                         0.1
                     ]
@@ -77,7 +77,7 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        3.5107,
+                        -3.5107,
                         39.9093,
                         0.1
                     ]
@@ -127,7 +127,7 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        2.2696,
+                        -2.2696,
                         40.9006,
                         0.1
                     ]
@@ -152,7 +152,7 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        3.3161,
+                        -3.3161,
                         38.4850,
                         0.1
                     ]
@@ -1177,7 +1177,7 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        1.2921,
+                        -1.2921,
                         36.8219,
                         0.1
                     ]
