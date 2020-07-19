@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "generated": 1594710206000,
+        "generated": 1595157443476,
         "url": "https://edwin001-tech.github.io",
         "title": "Kenya, Covid 19 cases in the last 24hrs",
         "status": 200,
@@ -1139,7 +1139,7 @@
                     "county": "Nyamira",
                     "code": "46",
                     "population": "605,576",
-                    "cases": 209,
+                    "cases": 0,
                     "total cases": "NA",
                     "deaths": "",
                     "bed capacity": "NA",
